@@ -25,5 +25,23 @@ public class withdrawal implements inttttt
 			System.out.println("Your Current Balance is $"+(balance-amt));
 		}
 	}
+
+	@Override
+	public void pchange() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void dep() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void balance() {
+		// TODO Auto-generated method stub
+		
+	}
 	
 }

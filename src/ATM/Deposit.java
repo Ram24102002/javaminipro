@@ -33,4 +33,22 @@ public class Deposit implements inttttt
 		System.out.println("Money Deposited Successfuly...");
 		System.out.println("Your Current Balance is $"+(balance+addmoney));
 	}
+
+	@Override
+	public void withdraw() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void pchange() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void balance() {
+		// TODO Auto-generated method stub
+		
+	}
 }

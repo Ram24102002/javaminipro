@@ -14,4 +14,6 @@ public class PinChange implements inttttt
 		pin=npin;
 		System.out.println("Your New PIN Changed to "+pin+" Successfully...");
 	}
+
+	
 }
